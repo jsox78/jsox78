@@ -1,12 +1,13 @@
 ### Welcome and Thanks for Stopping By 👋
+```
   _______ _______ ___ ___ ______      _______  _______ ___ ___ _______ _______ _______ _______  ___ ___  
  |   _   |   _   |   Y   |   _  \    |   _   \|   _   |   Y   |   _   |   _   |   _   |   _   |(   Y   ) 
  |___|   |.  |   |.  1   |.  |   |   |.  1   /|.  |   |.  |   |.  1___|.  l   |   1___|.  |   | \  1  /  
  |.  |   |.  |   |.  _   |.  |   |   |.  _   \|.  |   |. / \  |.  __)_|.  _   |____   |.  |   | /  _  \  
  |:  1   |:  1   |:  |   |:  |   |   |:  1    |:  1   |:      |:  1   |:  |   |:  1   |:  1   |/:  |   \ 
  |::.. . |::.. . |::.|:. |::.|   |   |::.. .  |::.. . |::.|:. |::.. . |::.|:. |::.. . |::.. . (::. |:.  )
- `-------`-------`--- ---`--- ---'   `-------'`-------`--- ---`-------`--- ---`-------`-------'`--- ---' 
-                                                                                                         
+ `-------`-------`--- ---`--- ---'   `-------'`-------`--- ---`-------`--- ---`-------`-------'`--- ---'
+```
 I'm John, Cloud Solution Architect from Raleigh, NC USA.
 * 🔭 I currently work for Microsoft in the Customer Success Unit supporting US Manufacturing Companies.
 * 💬 I specialize in Microsoft Azure, with over eight years experience of Azure design and implementation.
